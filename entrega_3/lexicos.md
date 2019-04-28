@@ -80,7 +80,7 @@
 |  **Nome**       |    check   |
 |  **Noção**      |    Em uma rodada de apostas ninguém apostou nada.</br>A maior aposta do jogo é 0, portanto o jogador não precisa apostar para continuar no jogo.</br>Se o jogador não apostar nada ele realiza um check   |
 |**Classificação**|    verbo   |
-|  **Impacto**    |    Jogador não precisa wzzxkkxy0pois não possui aposta na mesa para isso, portanto o jogador pode simplesmente dar check e continuar o jogo.   |
+|  **Impacto**    |    Jogador não precisa dar [call](#Call) pois não possui aposta na mesa para isso, portanto o jogador pode simplesmente dar check e continuar o jogo.   |
 |  **Sinônimos**  |    dar ceck, deu check.   |
 
 
@@ -192,7 +192,7 @@
 |  **Nome**       |    jogador está com o botão   |
 |  **Noção**      |    O [botão](#Botão) se encontra com o jogador.   |
 |**Classificação**|    estado   |
-|  **Impacto**    |    O jogador com o [botão](#Botão) tem a vantagem de ser o último a apostar podendo ter a chance de [dar fold](#Fold) em uma aposta muito alta ou wzzxkkxy0em uma aposta acessível.   |
+|  **Impacto**    |    O jogador com o [botão](#Botão) tem a vantagem de ser o último a apostar podendo ter a chance de [dar fold](#Fold) em uma aposta muito alta ou [dar call](#Call) em  uma aposta acessível.   |
 |  **Sinônimos**  |    jogador com o botão.   |
 
 

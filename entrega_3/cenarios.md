@@ -4,7 +4,7 @@
 |:-------------:|:-------:|
 |  **Título**   |    flop   |
 |  **Objetivo** |    Acumular apostas no [pote](lexicos.md#Pote) com 5 cartas possíveis para a [mão](lexicos.md#Mão) de cada jogador   |
-|  **Contexto** |    Fim do PRÉ-FLOP   |
+|  **Contexto** |    Fim do [PRÉ-FLOP](#Pré-flop)   |
 |  **Atores**   |    [dealer](lexicos.md#Dealer)   |
 |  **Recursos** |    Jogadores, [pote](lexicos.md#Pote), baralho, mesa.   |
 |  **Excecão**  |    Jogadores deram [fold](lexicos.md#Fold), restando apenas 1 jogador no PRÉ-FLOP   |
